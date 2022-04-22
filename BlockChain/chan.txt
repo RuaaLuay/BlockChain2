@@ -1,0 +1,37 @@
+[Index: 0
+ Header:{version=1, 
+	 previous_hash=0,
+	 merkle_root=0,
+	 timestamp=1648414106,
+	 difficulty=2,
+	 nonce=200}
+ Transactions count:1
+ Transactions: 
+	Basecoin -> Ruaa -> 1000
+ Hash: 00b0bfc00c3e8f1f1540a2d1a6f117bc2c72f4cd97f09e70a0f984891c666b38]
+ -------------------------------------------------------------------------------[Index: 1
+ Header:{version=1, 
+	 previous_hash=00b0bfc00c3e8f1f1540a2d1a6f117bc2c72f4cd97f09e70a0f984891c666b38,
+	 merkle_root=0,
+	 timestamp=1648414106,
+	 difficulty=2,
+	 nonce=187}
+ Transactions count:3
+ Transactions: 
+	Basecoin->Ruaa->10
+	Ruaa->Jood->10
+	Ruaa->Saba->10
+ Hash: 00a99a277c4490cdfbe6ca1f5cfb89c64ad7b4c44974ec7d71fc6b003c55a784]
+ -------------------------------------------------------------------------------[Index: 2
+ Header:{version=1, 
+	 previous_hash=00a99a277c4490cdfbe6ca1f5cfb89c64ad7b4c44974ec7d71fc6b003c55a784,
+	 merkle_root=0,
+	 timestamp=1648414106,
+	 difficulty=2,
+	 nonce=303}
+ Transactions count:2
+ Transactions: 
+	Basecoin->Ruaa->5
+	Ruaa->Luay->10
+ Hash: 00eba41a0d87071c6f1bd1cd87011db2e1304e1bc8886a786b3e8e9ca817cc95]
+ -------------------------------------------------------------------------------

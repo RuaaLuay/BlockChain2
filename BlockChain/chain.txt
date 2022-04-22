@@ -1,0 +1,23 @@
+[Index: 0
+ Header:{version=1, 
+	 previous_hash=0,
+	 merkle_root=0,
+	 timestamp=1648414325,
+	 difficulty=2,
+	 nonce=169}
+ Transactions count:1
+ Transactions: 
+	Basecoin -> Ruaa -> 1000
+ Hash: 0030ee9491cdbac6a9f96d5dbf806ee6e09b0f4039ecdb7190799110fe4047e1]
+ -------------------------------------------------------------------------------[Index: 1
+ Header:{version=1, 
+	 previous_hash=0030ee9491cdbac6a9f96d5dbf806ee6e09b0f4039ecdb7190799110fe4047e1,
+	 merkle_root=0,
+	 timestamp=1648414325,
+	 difficulty=2,
+	 nonce=9}
+ Transactions count:1
+ Transactions: 
+	Ruaa->Luay->10
+ Hash: 00493e0c043c26e5f517078fe4a7311875e431c8308a2a32f45e62c52c9d578c]
+ -------------------------------------------------------------------------------
